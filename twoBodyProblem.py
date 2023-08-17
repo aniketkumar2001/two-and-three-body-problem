@@ -28,7 +28,7 @@ vy2 = -20                           # intitial speed in y
 vx2 = 0                             # intitial speed in x                  
 k2 = 0                              # k = G*M
 
-r = 150                             # initial separation 
+r = 150                             # half the initial separation 
 
 
 ###############################################################################
